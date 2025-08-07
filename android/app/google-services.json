@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "315598092021",
+    "project_id": "artrav",
+    "storage_bucket": "artrav.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315598092021:android:46150177973b1a101077bc",
+        "android_client_info": {
+          "package_name": "com.example.around_you"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315598092021-ru6dojgl65qmsuneo4bm3p9l2kpl8equ.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSMxEQ2aPrMVkmk6FSXXwfj-iO8uhuEbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315598092021-ru6dojgl65qmsuneo4bm3p9l2kpl8equ.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "315598092021-ai5hrd4m98fjlmcjb0pjjavlpf4jm3l3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aroundYou"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
